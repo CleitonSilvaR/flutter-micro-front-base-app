@@ -32,11 +32,16 @@ dependencies:
   flutter_micro_front_micro_app_login:
     git:
       url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-app-login.git
-      ref: v1.0.5
+      ref: v1.0.7
 
   flutter_micro_front_micro_app_home:
     git:
       url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-app-home.git
+      ref: v1.0.4
+
+  flutter_micro_front_micro_commons_desing_system:
+    git:
+      url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-commons-desing-system.git
       ref: v1.0.2
 
   # The following adds the Cupertino Icons font to your application.
